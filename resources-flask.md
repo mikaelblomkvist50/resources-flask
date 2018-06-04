@@ -72,11 +72,14 @@
 
 # B
 
+* http://blog.luisrei.com/
 * http://blog.tafkas.net/
 
 # C
 
 # D
+
+* https://www.digitalocean.com/community/tags/python-frameworks
 
 # E
 
@@ -84,17 +87,24 @@
 
 # G
 
+* https://getpocket.com/explore/flask-com
+
 # H
 
 # I
 
 # J
 
+* https://jeffknupp.com/
+
 # K
 
 # L
 
 # M
+
+* https://codeburst.io/@oleg.agapov
+* https://medium.com/@ssola
 
 # N
 
@@ -104,17 +114,25 @@
 
 # P
 
+* http://www.patricksoftwareblog.com/
+
 # Q
 
 # R
 
+* https://realpython.com/search?q=flask
+
 # S
+
+* http://stackabuse.com/tag/flask/
 
 # T
 
 # U
 
 # V
+
+* https://vladikk.com/
 
 # W
 
