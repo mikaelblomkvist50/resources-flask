@@ -11,6 +11,7 @@
 * [Flask Web Development: Developing Web Applications with Python - Miguel Grinberg](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739) **|** [Good Reads](https://www.goodreads.com/book/show/18774655-flask-web-development)
 * [Flask By Example - Gareth Dwyer](https://www.amazon.com/Flask-Example-Gareth-Dwyer/dp/1785286935) **|** [Good Reads](https://www.goodreads.com/book/show/30125157-flask-by-example)
 * [Mastering Flask - Jack Stouffer](https://www.goodreads.com/book/show/27134008-mastering-flask?from_search=true) **|** [Good Reads](https://www.goodreads.com/book/show/27134008-mastering-flask?from_search=true)
+* [Microservices with Docker, Flask, and React - Michael Herman](https://testdriven.io/)
 
 ### Courses
 
@@ -85,6 +86,8 @@
 
 # D
 
+* https://damyanon.net/
+
 * https://www.digitalocean.com/community/tags/python-frameworks
 
 # E
@@ -98,6 +101,8 @@
 # H
 
 # I
+
+* https://ianlondon.github.io/
 
 # J
 
