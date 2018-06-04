@@ -14,6 +14,7 @@
 
 ### Courses
 
+* https://app.pluralsight.com/library/courses/flask-micro-framework-introduction/table-of-contents
 * https://practicalapps.fullbit.ca/
 * https://buildasaasappwithflask.com/
 * https://www.udemy.com/rest-api-flask-and-python/
@@ -40,6 +41,7 @@
 * [Flask Tutorial - Chris Hawkes](https://www.youtube.com/watch?v=gDSLrpxR3G4&list=PLei96ZX_m9sWQco3fwtSMqyGL-JDQo28l)
 * [How to Create NBA website with Flask, Python, nba_py - MicrowaveSam](https://www.youtube.com/watch?v=QZKJnvSbwFM&t=1s)
 * [Techies Eyes - Flask 101 Novice to Ninja](https://www.youtube.com/watch?v=59w1Wvawesw&list=PLDlfryoEyB-Nm7l8DCdqangPyYOGKdDQi)
+* [Practical Flask Web Development Tutorials - sentdex](https://www.youtube.com/watch?v=Lv1fv-HmkQo&list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
 
 ### People/Entities that write about Flask
 [A](#a) **|**
@@ -78,6 +80,9 @@
 
 # C
 
+* https://codeburst.io/@allasamhita
+* https://codeburst.io/@oleg.agapov
+
 # D
 
 * https://www.digitalocean.com/community/tags/python-frameworks
@@ -104,8 +109,7 @@
 
 # M
 
-* https://codeburst.io/@allasamhita
-* https://codeburst.io/@oleg.agapov
+* http://mattupstate.com/
 * https://medium.com/@ssola
 
 # N
