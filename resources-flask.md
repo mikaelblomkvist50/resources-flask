@@ -1,5 +1,10 @@
 # Resources Flask
 
+[Books](#books) **|**
+[Courses](#courses) **|**
+[You Tube](#you-tube) **|**
+[People/Entities that write about Flask](#) **|**
+
 ### Books
 
 * https://leanpub.com/flask-cloud9-heroku-mongodb-ebook
@@ -28,6 +33,12 @@
 * https://www.udemy.com/python-flask-tutorial-step-by-step/
 * https://www.udemy.com/intro-to-flask/
 * https://www.udemy.com/tensorflow-advanced/
+
+### You Tube
+
+* [Flask Tutorials - Corey Schafer](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+* [Flask Tutorial - Chris Hawkes](https://www.youtube.com/watch?v=gDSLrpxR3G4&list=PLei96ZX_m9sWQco3fwtSMqyGL-JDQo28l)
+* [How to Create NBA website with Flask, Python, nba_py - MicrowaveSam](https://www.youtube.com/watch?v=QZKJnvSbwFM&t=1s)
 
 ### People/Entities that write about Flask
 [A](#a) **|**
@@ -60,6 +71,8 @@
 # A
 
 # B
+
+* http://blog.tafkas.net/
 
 # C
 
@@ -99,16 +112,14 @@
 
 # T
 
-* http://blog.tafkas.net/
+# U
 
 # V
 
+# W
 
+# X
 
+# Y
 
-
-### You Tube
-
-* [Flask Tutorials - Corey Schafer](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
-* [Flask Tutorial - Chris Hawkes](https://www.youtube.com/watch?v=gDSLrpxR3G4&list=PLei96ZX_m9sWQco3fwtSMqyGL-JDQo28l)
-* [How to Create NBA website with Flask, Python, nba_py - MicrowaveSam](https://www.youtube.com/watch?v=QZKJnvSbwFM&t=1s)
+# Z
