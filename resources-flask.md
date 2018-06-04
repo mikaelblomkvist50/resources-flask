@@ -39,6 +39,7 @@
 * [Flask Tutorials - Corey Schafer](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
 * [Flask Tutorial - Chris Hawkes](https://www.youtube.com/watch?v=gDSLrpxR3G4&list=PLei96ZX_m9sWQco3fwtSMqyGL-JDQo28l)
 * [How to Create NBA website with Flask, Python, nba_py - MicrowaveSam](https://www.youtube.com/watch?v=QZKJnvSbwFM&t=1s)
+* [Techies Eyes - Flask 101 Novice to Ninja](https://www.youtube.com/watch?v=59w1Wvawesw&list=PLDlfryoEyB-Nm7l8DCdqangPyYOGKdDQi)
 
 ### People/Entities that write about Flask
 [A](#a) **|**
@@ -103,6 +104,7 @@
 
 # M
 
+* https://codeburst.io/@allasamhita
 * https://codeburst.io/@oleg.agapov
 * https://medium.com/@ssola
 
