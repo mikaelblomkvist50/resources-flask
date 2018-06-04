@@ -4,9 +4,12 @@
 
 * https://leanpub.com/flask-cloud9-heroku-mongodb-ebook
 * [Flask Web Development: Developing Web Applications with Python - Miguel Grinberg](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739) **|** [Good Reads](https://www.goodreads.com/book/show/18774655-flask-web-development)
+* [Flask By Example - Gareth Dwyer](https://www.amazon.com/Flask-Example-Gareth-Dwyer/dp/1785286935) **|** [Good Reads](https://www.goodreads.com/book/show/30125157-flask-by-example)
+* [Mastering Flask - Jack Stouffer](https://www.goodreads.com/book/show/27134008-mastering-flask?from_search=true) **|** [Good Reads](https://www.goodreads.com/book/show/27134008-mastering-flask?from_search=true)
 
 ### Courses
 
+* https://practicalapps.fullbit.ca/
 * https://buildasaasappwithflask.com/
 * https://www.udemy.com/rest-api-flask-and-python/
 * https://www.udemy.com/python-flask-course/
@@ -33,3 +36,5 @@
 ### You Tube
 
 * [Flask Tutorials - Corey Schafer](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+* [Flask Tutorial - Chris Hawkes](https://www.youtube.com/watch?v=gDSLrpxR3G4&list=PLei96ZX_m9sWQco3fwtSMqyGL-JDQo28l)
+* [How to Create NBA website with Flask, Python, nba_py - MicrowaveSam](https://www.youtube.com/watch?v=QZKJnvSbwFM&t=1s)
